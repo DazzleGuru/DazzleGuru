@@ -1,6 +1,6 @@
 # DazzleGuru Affiliate Marketing Platform
 
-Welcome to DazzleGuru, your premier destination for online courses and affiliate marketing. Our platform offers a range of educational courses designed to cater to various skill levels, from beginners to advanced professionals. Inspired by successful platforms like BizGurukul, LeadsGuru, and Millionaire Track, DazzleGuru provides a comprehensive suite of tools and resources to help you succeed.
+Welcome to DazzleGuru, your premier destination for online courses and affiliate marketing. Our platform offers a range of educational courses designed to cater to various skill levels, from beginners to advanced professionals. DazzleGuru provides a comprehensive suite of tools and resources to help you succeed.
 
 ## Table of Contents
 
